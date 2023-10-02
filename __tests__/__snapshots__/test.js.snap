@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing https://apingweb.com/#bearer As a User, I can Create New Data 1`] = `
+Object {
+  "errors": Array [],
+  "message": "Registration success",
+  "status": 200,
+  "success": true,
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiNTE3ZTQ2NmViMTVkZjZjMzU1YzNiYjAxYmFiZTJjMTE4M2ZiYmFlOWVmZjZkYzI3ZWE4ZjY4MWVlYjc3OThmNDczYThiMDc3YzJiYTc3ZGYiLCJpYXQiOjE2OTYyMTYwNTUuNTI4MDc1LCJuYmYiOjE2OTYyMTYwNTUuNTI4MDc2LCJleHAiOjE3Mjc4Mzg0NTUuNTI1NjI2LCJzdWIiOiIxNDE5Iiwic2NvcGVzIjpbXX0.ImW2241VjW_K2faH0JY8aWTb7NajPBQ1jurm7vN-vfc_efrRGNWLwX3WRe5mGUtjamCrE0TgjFN5S9onvHRbHBF4_lKyKZ6tamikKDCSXGT0CyB9fwtiupxVUBoc0dgPhbEOGlRu2dbEFQYBoaCIYcc1uqzk8j6QX0qirFTIJGR4KPCBN0-FpuuAAoO6vIpzlBRiH27GYjze92unu_dHCsTTdDvW35VICISNxKGpMVapE-Q6qre74M6_a1S2HfGMR0KQYzd1zZYNy5pq_pXLnhu9i6Irx_iwP84k0qqyCy67dAOhOurNk5qnF0nIKAIK3FvKx2MNInDat-2kDpDX36PDCY1P_0NQWCfCLZ4GHivaZPQXywGuup6AiQk2Owf5ufMBWCb2VE0oD8i10sKsMhUj-KmSPtK7k7-K8WeQvX48MG31FEEieXzqcFE7ohhv7dwPNhsKM9Z14fIqSAGS2Y1UnM3ucmE-9OF-6OwPeRCJ8fm0xUDBYlQ-_Hzi0gSwuI8azOqHW4jZLA-BnIFXCQF1L8Q2sBPzlrNbtynk20HuXXjk5OZjojxyH6-ssCRWxT-aDH85McxxYPniEeM6ByHuilJ1HbYQIv529PX1ZbGIslKNXqDaTRMbCREjp8ozqs8ww-l7q8XPCJ8xmY1Drq-pXnTourjLWMsiWzWspJo",
+}
+`;
+
+exports[`Testing https://apingweb.com/#bearer As a User, I can Login successfully 1`] = `
+Object {
+  "errors": Array [],
+  "message": "Login success",
+  "result": Object {
+    "created_at": "2023-10-02T03:07:35.000000Z",
+    "email": "superman934@mailsac.com",
+    "email_verified_at": null,
+    "id": 1419,
+    "name": "Clark Kent",
+    "phone": "5555551234",
+    "updated_at": "2023-10-02T03:07:35.000000Z",
+  },
+  "status": 200,
+  "success": true,
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiOTI1MjdjZDM1ODUzODZhOTY2MTU0MmM3ZDlhMGY0NzA1ZGJkYTE5YWUxNTZkMTYyMzEzZjVhNTc0OWU0MjgzZmI0MzJlOGMxYmYwMjY0MDkiLCJpYXQiOjE2OTYyMTYwNTYuNTI5MzksIm5iZiI6MTY5NjIxNjA1Ni41MjkzOTEsImV4cCI6MTcyNzgzODQ1Ni41Mjc2MTMsInN1YiI6IjE0MTkiLCJzY29wZXMiOltdfQ.aB-kUZZu_b5stYBJ922-9a0b11zfV8_Z_pGOCtg79hGTuzgbjQ_BFZakzdY5BwO-q942z9_vVDgp_4yNA7xRHgFMlPED7v8ySzrsuG_QiM67SZv90p1dSyNiJWYqlL_DH9hJpAV46oG60scemgPL-xESTc8eMv_HW6L2JdYynLmpTYN9mS-FCoIximvfubizjzvDO0kYFhPUfVTckgCcRpr11qZfXqnBz6TQaYWGN_H-LMXAhPB5lcY1isyrLNm1newAmkZm4SDkOI_3SUsx6LNswAQjHVJmzlZSY7FTbLKdLqyymGD2KHqtWfKdUsGsmsPyi99tV8JGUfNszpPz6UDzZSlVY7TRrrK7WE9Zi_3YlWRDRhXfmA9yMuP3f1OZuxV6honHRSdwZsT0nrHK6uD4dLkki0EaQmCTNDzSkQmIURzG9BeaXMUhri03V2qv1lPkyKeDPif00k7ujfaGgecvvaDoRH0WXLZm22tWKELsWgGUwsMRmpyc4iOOTQNYDP717ZP_s0xcvb0lSo9_8Ng1kjuy36MqjYCiQnHvzYdOVbC0DcqUHj8FtOHEunTiQ1gKsq0qWfMa9ySydkf3RzSCEaqtgqvBiJKnN6DEz9dlfMXvpu1yK_Cb8ygW7xwxfRa4_bkqSbpzoag9OIDQc2KxkeXS594oZ1UhqqYfd54",
+}
+`;
+
+exports[`Testing https://apingweb.com/#bearer As a User, I can Reset Password successfully 1`] = `
+Object {
+  "errors": Array [],
+  "message": "Your password has been changed",
+  "status": 200,
+  "success": true,
+}
+`;
+
+exports[`Testing https://apingweb.com/#bearer As a User, I can send email for Forgot Password successfully 1`] = `
+Object {
+  "errors": Array [],
+  "message": "We have e-mailed your password reset link, check your inbox or spam",
+  "or_use_this_token": "IVHIInHIv3noxDlGjVU1P7Z3Ni7MStdG4fxd1DYA7WeYSMuUWLiXBtc4f94OWjnf",
+  "status": 200,
+  "success": true,
+}
+`;
